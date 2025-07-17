@@ -24,3 +24,6 @@ _ReSharper*/
 # OS generated files
 .DS_Store
 Thumbs.db
+Properties/AssemblyInfo.cs
+VpnDetect_Nkz.csproj
+VpnDetect_Nkz.sln
