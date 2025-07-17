@@ -1,0 +1,26 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio files
+.vs/
+*.vcxproj.user
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.log
+
+# Tooling
+_ReSharper*/
+*.DotSettings.user
+
+# OS generated files
+.DS_Store
+Thumbs.db
